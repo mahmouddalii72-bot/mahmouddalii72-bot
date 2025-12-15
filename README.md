@@ -1,8 +1,8 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Mahmoud Ali](https://yousefdergham.vercel.app/) 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
@@ -12,7 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I am a Software Engineer skilled in HTML , CSS , React , and more. <br/>
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
